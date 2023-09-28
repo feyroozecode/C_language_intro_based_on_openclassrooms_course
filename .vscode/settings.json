@@ -1,0 +1,10 @@
+{
+    "nuxt.isNuxtApp": false,
+    "files.associations": {
+        "*.page-template": "vue",
+        "*.layout-template": "vue",
+        "*.vue": "vue",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
