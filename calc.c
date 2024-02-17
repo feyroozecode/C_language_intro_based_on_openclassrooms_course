@@ -31,7 +31,7 @@ double divide(int a, int b)
 
 int parcourController(int enter)
 {
-    printf("Vous voulez continuez (Oui: 0 / Non: 1)");
+    printf("\nVous voulez continuez (Oui: 0 / Non: 1) : ");
     scanf("%d", &enter);
 
     if (enter == 0)
@@ -41,6 +41,7 @@ int parcourController(int enter)
 
     printf("Au revoir ");
     exit(0);
+
     return 1;
 }
 
