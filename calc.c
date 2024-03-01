@@ -40,6 +40,7 @@ int parcourController(int enter)
     }
 
     printf("Au revoir ");
+    
     exit(0);
 
     return 1;
